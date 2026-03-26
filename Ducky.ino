@@ -143,7 +143,7 @@ void AboutUs() {
   Serial.println();
   Serial.println("📃 === ABOUT US ===");
   Serial.println();
-  Serial.println("👨‍💻 Project Created By: Linuxndroid & Krishna Rajput");
+  Serial.println("👨‍💻 Project Created By: Mohit Pratap");
   Serial.println("📚 Purpose: Educational Use & Learning ESP32 HID (Ducky Style)");
   Serial.println();
   Serial.println("💡 Hacker Quotes:");
@@ -152,7 +152,7 @@ void AboutUs() {
   Serial.println("\"It's not a bug, it's a feature...\" 😎");
   Serial.println();
   Serial.println("🔗 Follow Us:");
-  Serial.println("Linuxndroid YouTube: https://youtube.com/Linuxndroid");
+  Serial.println("instagram: https://www.instagram.com/tharaa_mohit_bhaihere?igsh=Y3drdGcxM3Y2eW84&ut-m_source=qr");
   Serial.println();
   Serial.println("⚠️  Use responsibly. Knowledge is power — use it wisely.");
   Serial.println("=======================");
